@@ -2,9 +2,9 @@
 
 The idea of the game is to move the green square up and down, and avoid bumping into the horizontally-moving red squares.
 
-ios1.PNG
+![](https://raw.githubusercontent.com/atabegruslan/Cocos2D-iOS/master/Illustrations/ios1.PNG)
 
-ios2.PNG
+![](https://raw.githubusercontent.com/atabegruslan/Cocos2D-iOS/master/Illustrations/ios2.PNG)
 
 ```
 //  HelloWorldLayer.h
